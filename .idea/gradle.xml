@@ -5,7 +5,7 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/StartGradle" />
-        <option name="gradleHome" value="" />
+        <option name="gradleJvm" value="openjdk-23" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/StartGradle" />
@@ -14,10 +14,17 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/TemaLab3" />
-        <option name="gradleHome" value="" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/TemaLab3" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lab5" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/lab5" />
           </set>
         </option>
       </GradleProjectSettings>
